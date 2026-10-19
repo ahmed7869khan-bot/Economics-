@@ -1,8 +1,8 @@
 # Economics Assignment – Reading List by Topic
 
 A reading list of free books, manuals and reports for 11 topics on **international trade, government budgets, public finance and debt**.
-This repository contains **links only** – no PDF files. Every link goes to the publisher's own site (or a free repository the publisher uses).
-Copyright stays with the publishers; check each publisher's licence before reusing content.
+This repository contains the **PDF files** (one folder per topic) and, below, the **official source link** for each book.
+Every document is a free publication from its publisher (IMF, WTO, UNCTAD, OECD, World Bank, UN, etc.). Copyright stays with the publishers; check each publisher's licence before re-sharing.
 
 > Some publisher sites (IMF, UNCTAD, OECD, OAPEN) block automated downloads but open normally in a browser.
 
@@ -101,6 +101,9 @@ Copyright stays with the publishers; check each publisher's licence before reusi
 - [SDDS: Guide for Subscribers and Users (2013)](https://dsbb.imf.org/content/pdfs/sddsguide13.pdf) – IMF
 - [SDDS Plus Guide (2015)](https://dsbb.imf.org/content/pdfs/sddsplus15.pdf) – IMF
 - [Handbook on Management and Organization of National Statistical Systems](https://unstats.un.org/capacity-development/handbook/index.cshtml) – UN
+
+## Files
+The PDFs sit in the folders `Topic 1 - ...` to `Topic 11 - ...` next to this README. `Topics_and_Links_Ahmed.pdf` is the original topic list. `PENDING_DOWNLOADS.txt` lists books left out.
 
 ## Not included (paid books)
 WTO *Handbook on the Dispute Settlement System*, IMF *Tax Policy Handbook*, and Biersteker, Eckert & Tourinho *Targeted Sanctions* (Cambridge). Free alternatives are listed above.

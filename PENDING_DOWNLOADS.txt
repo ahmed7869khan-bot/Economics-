@@ -1,0 +1,7 @@
+NOTHING PENDING - all 11 topics are downloaded.
+
+Left out on purpose (paid books, no free full text; free substitutes were added instead):
+WTO Handbook on the Dispute Settlement System, IMF Tax Policy Handbook, Biersteker et al. Targeted Sanctions.
+
+Two scanned PDFs have no readable text, so their title pages were not machine-checked:
+Topic 7 - IMF WP Sovereign Credit Ratings Methodology (Bhatia 2002); Topic 3 - UNCTAD Dispute Settlement Module 3.1.
